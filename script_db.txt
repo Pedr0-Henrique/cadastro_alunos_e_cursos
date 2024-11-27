@@ -17,6 +17,4 @@ CREATE TABLE cursos (
     data_inicio DATE NOT NULL
 );
 
-git remote add origin https://github.com/Pedr0-Henrique/cadastro_de_alunos_e_cursos-.git
-git branch -M main
-git push -u origin main
+
